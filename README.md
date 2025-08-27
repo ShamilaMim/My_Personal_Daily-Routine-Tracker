@@ -60,8 +60,7 @@ Daily-Routine-Tracker/
 ---
 
 ## 📸 Screenshot
-
-(routine_tracker.png)
+![App Screenshot](screenshot.png)
 
 ---
 
