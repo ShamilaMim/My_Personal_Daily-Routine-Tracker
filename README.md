@@ -61,7 +61,7 @@ Daily-Routine-Tracker/
 
 ## 📸 Screenshot
 
-![Screenshot](routine_tracker.png)
+(routine_tracker.png)
 
 ---
 
