@@ -11,7 +11,7 @@ A web-based **Daily Routine Tracker** to help you manage your IELTS preparation,
 ---
 
 ## 🌐 Live Demo
-[🚀 Try the app online](https://your-live-demo-link.netlify.app)
+(https://68af2b732daf051e353f4a78--my-daily-routine-tracker.netlify.app/)
 
 ---
 
@@ -61,7 +61,7 @@ Daily-Routine-Tracker/
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](routine_tracker.png)
 
 ---
 
