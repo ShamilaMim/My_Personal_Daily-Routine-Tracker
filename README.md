@@ -27,6 +27,7 @@ A web-based **Daily Routine Tracker** to help you manage your IELTS preparation,
 
 ## 🗂 Project Structure
 
+```
 Daily-Routine-Tracker/
 │
 ├─ index.html # Main HTML file
@@ -36,7 +37,7 @@ Daily-Routine-Tracker/
 ├─ service-worker.js # Offline caching via service worker
 ├─ icon-192.png # App icon (192×192)
 └─ icon-512.png # App icon (512×512)
-
+```
 ---
 
 ## ⚙️ How to Run
