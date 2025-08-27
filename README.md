@@ -37,9 +37,6 @@ Daily-Routine-Tracker/
 ├─ icon-192.png # App icon (192×192)
 └─ icon-512.png # App icon (512×512)
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ How to Run
