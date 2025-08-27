@@ -11,17 +11,17 @@ A web-based **Daily Routine Tracker** to help you manage your IELTS preparation,
 ---
 
 ## 🌐 Live Demo
-(https://68af2b732daf051e353f4a78--my-daily-routine-tracker.netlify.app/)
+[🚀 Try the app online](https://68af2b732daf051e353f4a78--my-daily-routine-tracker.netlify.app/)
 
 ---
 
 ## ✨ Features
 
-- 🗓 **Interactive Table** – Days × Activities format
-- ✔ **Mark Completed Tasks** – Click buttons to check off activities
-- 💾 **LocalStorage Support** – Progress saved automatically
-- 📱 **PWA Ready** – Works offline with caching
-- 🎨 **Responsive UI** – Clean, user-friendly, and mobile-ready
+- 🗓 **Interactive Table** – Days × Activities format  
+- ✔ **Mark Completed Tasks** – Click buttons to check off activities  
+- 💾 **LocalStorage Support** – Progress saved automatically  
+- 📱 **PWA Ready** – Works offline thanks to service worker & caching  
+- 🎨 **Responsive UI** – Clean, user-friendly, and mobile-ready  
 
 ---
 
@@ -34,9 +34,11 @@ Daily-Routine-Tracker/
 ├─ script.js # Table generation, button clicks & localStorage
 ├─ manifest.json # PWA manifest file
 ├─ service-worker.js # Offline caching via service worker
-├─ icon-192.png # App icon (192x192)
-└─ icon-512.png # App icon (512x512)
+├─ icon-192.png # App icon (192×192)
+└─ icon-512.png # App icon (512×512)
 
+yaml
+Copy code
 
 ---
 
@@ -44,7 +46,7 @@ Daily-Routine-Tracker/
 
 1. Clone or download the repository.  
 2. Open `index.html` in your browser.  
-3. Click on buttons to mark tasks as completed. ✅  
+3. Click buttons to mark tasks as completed ✅  
 4. Progress is saved automatically via **localStorage**.  
 5. Install as a PWA to use offline on your device.
 
@@ -69,4 +71,3 @@ Daily-Routine-Tracker/
 
 **📅 Date:** 2025  
 **📄 License:** MIT
-
